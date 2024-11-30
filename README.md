@@ -2,7 +2,7 @@
 
 My name is *Stephan Dolskii*. I'm a student on *Information Security* in Higher School of Economics (HSE) in Moscow. Like to participate in CTF's, write some code and work on freelance :3
 
-I'm also a member of LGBTQ+. If you don't dare to talk with me with pronouns I want - we won't be talking.
+I'm also a member of LGBTQ+. If you dare to talk with me with pronouns I don't want - we won't be talking.
 
 
 ## I'm working on ...
