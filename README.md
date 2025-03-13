@@ -12,6 +12,8 @@ I just have so many projects, ideas and oreders, so some of my projs are dropped
 - Simple RAT *for educational purposes*
 - Plenty of telegram bots *legal*
 - Reverse engineering / pwn *'cause I like to earn a lot of points for my team in CTF :P*
+- Web *'cause I like it*
+- Windows AD and other pentesting stuff *'cause I wanna become a pentester!*
 - One site that will be an internet shop *maybeee*
 - VK bots for posting posts *legal*
 
@@ -19,6 +21,7 @@ I just have so many projects, ideas and oreders, so some of my projs are dropped
 
 - pwn
 - rev
+- web
 - malware dev *for educational purposes*
 
 And mostly that's all! Most of the above are for orders from cutomers.
@@ -44,7 +47,8 @@ And that's it! No other options.
 
 **ONLY AND ONLY**
 
-> They / Them
+> They / Them *That was a really funny joke*
+> He / His *That sounds right*
 
 **NO OTHER OPTIONS**
 
