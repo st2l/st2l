@@ -1,7 +1,7 @@
 ### 🏆 Trophy
 *The most dogwater trophies I've ever seen... Mb I shoud work more idk*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=S0ft1c&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=st2l&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About me
 *I am a very lazy person, let's start with that.*
@@ -28,9 +28,9 @@ And that's it. btw this is the best place you can find me.
 ### Some of GitHub statistics
 *They look cool. Not the values on them but...*
 
-<img src="https://github-readme-stats.vercel.app/api?username=S0ft1c&show_icons=true&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=st2l&show_icons=true&theme=onedark">
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S0ft1c&theme=onedark" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=st2l&theme=onedark" alt="mystreak"/>
 
