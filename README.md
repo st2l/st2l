@@ -6,6 +6,8 @@
 ### About me
 *I am a very lazy person, let's start with that.*
 
+> This account has not many projects... And that's because previous account on github was f@@king BANNED. yeah... Hate it. Do not know how I will recreate some projects but I suppose I will need to... or maybe create new ones? yeah, create new ones.
+
 **💻 Place of work**
 I am a DevSecOps intern in MWS (MTS Web services). 
 
