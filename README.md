@@ -30,9 +30,3 @@ And that's it. btw this is the best place you can find me.
 ### Some of GitHub statistics
 *They look cool. Not the values on them but...*
 
-<img src="https://github-readme-stats.vercel.app/api?username=st2l&show_icons=true&theme=onedark">
-
----
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st2l&theme=onedark" alt="mystreak"/>
-
